@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![nuttavadeepj's github stats](https://github-readme-streak-stats.herokuapp.com/?user=nuttavadeepj&count_private=true&theme=nightowl)
+<!-- ![nuttavadeepj's github stats](https://github-readme-streak-stats.herokuapp.com/?user=nuttavadeepj&count_private=true&theme=nightowl) -->
 
 ![nuttavadeepj's steak stats](https://github-readme-stats.vercel.app/api?username=nuttavadeepj&count_private=true&show_icons=true&theme=nightowl)
 
